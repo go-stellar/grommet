@@ -1,3 +1,14 @@
+This branch contains Stellar's custom version of the Grommet framework.
+
+This version began with a fork of Grommet's [v1.0.1](https://github.com/grommet/grommet/tree/v1.0.1) tag. 
+
+From this fork, the following features have been integrated from Grommet's stable branch.
+* [fixing dropdown component's position in IE11 and Firefox.](https://github.com/grommet/grommet/commit/6b13d95af83eea70d0588e42856037f2089abc3f)
+* [Header, Box: Fixed issues with ie8](https://github.com/grommet/grommet/commit/fecbcb2851362acd7d3bc4d7898b07f6e6975c4b)
+* [Menu, Anchor: fixed issue with onclickable Anchors](https://github.com/grommet/grommet/commit/881954ff221a9d4de427f8c0ce8b30ddfe195184)
+    
+Visit Stellar at [gostellar.co](http://gostellar.co)
+
 # Grommet: The most advanced UX framework for enterprise apps
 
 [![Slack](http://alansouzati.github.io/artic/img/slack-badge.svg)](http://slackin.grommet.io)  [![Build Status](https://api.travis-ci.org/grommet/grommet.svg)](https://travis-ci.org/grommet/grommet)  [![Coverage Status](https://coveralls.io/repos/github/grommet/grommet/badge.svg?branch=master)](https://coveralls.io/github/grommet/grommet?branch=master) [![Code Climate](https://codeclimate.com/github/grommet/grommet/badges/gpa.svg)](https://codeclimate.com/github/grommet/grommet)  [![Dependency Status](https://david-dm.org/grommet/grommet.svg)](https://david-dm.org/grommet/grommet)  [![devDependency Status](https://david-dm.org/grommet/grommet/dev-status.svg)](https://david-dm.org/grommet/grommet#info=devDependencies)  [![CDNJS](https://img.shields.io/cdnjs/v/grommet.svg)](https://cdnjs.com/libraries/grommet)
